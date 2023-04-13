@@ -7,7 +7,7 @@
                         <img src="https://www.bcp.com.bo/BilleteraMovil/Images/LogoBCP4.png" alt="">
                         <div class="hover-galeria-red">
                             <img src="img/icono1.png" alt="">
-                            <a href="bcp.vue">BCP</a>
+                            <a href="bcp.vue">BCPP</a>
                         </div>
                     </div>
                     <div class="imagen-port">
